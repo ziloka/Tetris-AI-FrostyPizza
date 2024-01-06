@@ -8,17 +8,9 @@
 // Tetris namespace
 namespace ts {
 
-
-
-
-
 	constexpr int WIDTH{ 10 };
 	constexpr int HEIGHT{ 25 }; //25
 	constexpr int YMARGIN{ HEIGHT - 20 };
-
-
-
-
 
 	constexpr int comboTable[14]{
 		0, 0, 0, 1, 1, 1, 2, 2, 3, 3, 4, 4, 4, 5
